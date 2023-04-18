@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+ifa<b:
+print("smallest is:",a)
+else:
+print("smallest is:",b)
